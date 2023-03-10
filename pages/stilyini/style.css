@@ -20,14 +20,6 @@ body {
     height: 30px;
     border-radius: 5px;
   }
-  h3 a{
-    padding-bottom: 5px;
-    color: white;
-    text-decoration: none;
-  }
-  h3 a:hover {
-    text-decoration: underline;
-  }
   .titulo {
         margin-top: -30px;
       font-family: var(--font2) ;

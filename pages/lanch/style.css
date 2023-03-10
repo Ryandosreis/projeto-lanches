@@ -1,0 +1,47 @@
+@charset "UTF=8";
+* {
+    margin: 0px;
+}
+
+header {
+    background-color: green;
+    padding: 32px;
+
+}
+div {
+    padding: 30px;
+    display: inline-block;
+}
+
+.p3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/imagens/pizza3.png.png);
+    background-size: cover;
+    background-position: center right;
+    
+}
+.p4 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/imagens/pizza.jpg.crdownload);
+    background-position: center right;
+    
+}
+.h1 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/imagens/xtudo.png.png);
+    background-position: center top;
+}
+.h2 {
+    width: 200px;
+    height: 200px;
+    background-image: url(/imagens/xsalada.png.png);
+    background-position: center center;
+}
+.h3 {
+    width: 200px;
+    height: 200px;
+    background-image: url();
+}
