@@ -5,6 +5,7 @@ body {
     background-color: #296B58;
 }
 h1 {
+    color: white;
     font-family: 'Indie Flower', cursive;
     text-align: center;
     font-size: 3em;
@@ -23,8 +24,9 @@ div {
     border-radius: 30px;
     box-shadow: 1px 1px 1px 1px black;
 }
+
 #sobre:hover {
-    box-shadow: 1px 2px 2px 2px black;
+    border: 5px solid white ;
     transform: scale(0.95);
     transition: all 0.3s;
 }
@@ -46,7 +48,7 @@ button {
     color: #296B58;
     font-weight: bold;
     margin: auto;
-    display: block;
+   display: block;
 
 }
 button:hover {
