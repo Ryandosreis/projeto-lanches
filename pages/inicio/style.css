@@ -1,19 +1,19 @@
-@charset "UTF=8";
+@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 :root {
     --font1: 'Lobster', cursive;
     --font2: 'Indie Flower', cursive;
-    
+
 }
 
 body {
-    background-color: #137535;  
+    background-color: #137535;
   }
   h1 {
     padding-top: 30px;
-    
+
   }
 
   .titulo {
@@ -44,22 +44,22 @@ body {
       margin-top: 50px;
   }
   .lanches {
-    
+
     margin: -20px;
-      
+
   }
   .sobremesa {
-    margin: -20px; 
+    margin: -20px;
 
   }
   .bebidas {
     margin: -20px;
   }
  h2 {
-      
+
       font-family:var(--font2);
       color: rgb(255, 255, 255) ;
-      text-align: center;  
+      text-align: center;
       margin-bottom: -20px ;
       text-transform: uppercase;
   }
