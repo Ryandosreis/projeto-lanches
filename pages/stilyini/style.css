@@ -10,6 +10,9 @@
 body {
     background-color: #137535;  
   }
+  h1 {
+    padding-top: 30px;
+  }
   h3 {
     font-weight: normal;
     font-family: Arial, Helvetica, sans-serif;
@@ -36,7 +39,11 @@ body {
     text-align: center;
 
   }
-  #quadra {
+  #img {
+    margin: auto;
+    display: block;
+  }
+  #img {
       margin: 30px;
       border-radius: 30px;
       box-shadow: 2px 2px 5px black;
@@ -44,26 +51,16 @@ body {
       margin-top: 50px;
   }
   .lanches {
-      background-image: url(/imagens/lanches.jpg.png);
-      background-position: center center;
-      width: 500px;
-      height: 100px;
+    
 
       
   }
   .sobremesa {
-      background-image: url(/imagens/petit.png.png);
-      background-position:  center center;
-      width: 500px;
-      height: 100px;
+      
 
   }
   .bebidas {
-      background-image: url(/imagens/bebida2.png.png);
-      background-position: center center;
-      background-repeat: no-repeat;
-      width: 500px;
-      height: 100px;
+     
   }
  h2 {
       font-family:var(--font2);
@@ -72,7 +69,7 @@ body {
       margin-bottom: -20px ;
       text-transform: uppercase;
   }
-  #quadra:hover{
+  #img:hover{
       transform: scale(0.95);
       transition: all 0.3s;
 
