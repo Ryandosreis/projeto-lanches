@@ -7,6 +7,13 @@
     --font2: 'Indie Flower', cursive;
 
 }
+header h2 {
+  font-family: 'Indie Flower', cursive;
+   margin: -10px;
+   color: white;
+   text-align: left;
+   font-size: 1.2em;
+   text-transform: uppercase; }
 
 body {
     background-color: #137535;
