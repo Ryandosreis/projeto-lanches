@@ -47,7 +47,7 @@ nav a:hover {
 .capa {
     background-color: white;
     background-position: right center;
-    background-image: url(/imagens/capa.png.png);
+    background-image: url('../imagens/capa.png.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover
